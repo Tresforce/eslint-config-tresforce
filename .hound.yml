@@ -1,4 +1,4 @@
 eslint:
   enabled: true
-  config: .eslintrc
+  config_file: .eslintrc
   version: 7.7.0
