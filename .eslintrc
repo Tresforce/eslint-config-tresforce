@@ -6,6 +6,7 @@
     },
     "extends": [
         "eslint:recommended",
+        "hardcore",
         "plugin:@typescript-eslint/eslint-recommended"
     ],
     "globals": {
