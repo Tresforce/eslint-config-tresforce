@@ -21,6 +21,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-    "complexity": ["error", 2]
+    "complexity": ["error", 2],
+    "no-undef":"off"
     }
 }
