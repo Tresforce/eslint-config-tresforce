@@ -5,7 +5,8 @@
         "node": true
     },
     "extends": [
-        "eslint:recommended"
+        "eslint:recommended",
+        "airbnb"
     ],
     "globals": {
         "Atomics": "readonly",
