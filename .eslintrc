@@ -6,6 +6,7 @@
     },
     "extends": [
         "eslint:recommended",
+        "plugin:sonarjs/recommended",
         "airbnb"
     ],
     "globals": {
