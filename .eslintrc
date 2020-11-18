@@ -21,5 +21,6 @@
         "@typescript-eslint"
     ],
     "rules": {
+    "complexity": ["error", 2]
     }
 }
